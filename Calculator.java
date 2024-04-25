@@ -1,3 +1,9 @@
+/*
+ * @author: Alexandre Brillon
+ * @date: April 24th 2024
+ * 
+ * This is a simple calculator application built using Java Swing.
+ */
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
